@@ -1,4 +1,4 @@
-# This Is My Knowledge Store
+# This Is A Knowledge Store
 It's a collection of things on a variety of topics like:
 * Technology Management
 * Research Methods
